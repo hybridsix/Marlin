@@ -1,5 +1,12 @@
 ﻿# Marlin 3D Printer Firmware
 
+EDITED BY HYBRIDSIX FOR A30 RETROFIT
+BIGTREETECH SKR 1.3
+  TMC2208 X, Y, E IN UART
+  LV8729 ON DUAL Z DRIVERS
+  24V SETUP
+
+
 [![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=bugfix-2.0.x)](https://travis-ci.org/MarlinFirmware/Marlin)
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
